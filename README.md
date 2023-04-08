@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/1080231673507086447/1089359838024323202/IMG_3090.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm elijah n.</h1>
 <h3 align="center">A passionate frontend developer from usa</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/meme-tiktok-bee-PRGYLYrmpNR5kAQ4D0">
+<div style="width:100%;height:0;padding-bottom:173%;position:relative;"><iframe src="https://giphy.com/embed/PRGYLYrmpNR5kAQ4D0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meme-tiktok-bee-PRGYLYrmpNR5kAQ4D0">via GIPHY</a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elijah-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah_glitch" /> </p>
